@@ -1,7 +1,7 @@
 
 ![Screenshot](.github/index.png)
 
-# MicroBin
+# MicroBin - Italian URLs fork
 
 ![Build](https://github.com/szabodanika/microbin/actions/workflows/rust.yml/badge.svg)
 [![crates.io](https://img.shields.io/crates/v/microbin.svg)](https://crates.io/crates/microbin)
