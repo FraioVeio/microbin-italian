@@ -1,10 +1,12 @@
 const ANIMAL_NAMES: &[&str] = &[
-    "ant", "eel", "mole", "sloth", "ape", "emu", "monkey", "snail", "bat", "falcon", "mouse",
-    "snake", "bear", "fish", "otter", "spider", "bee", "fly", "parrot", "squid", "bird", "fox",
-    "panda", "swan", "bison", "frog", "pig", "tiger", "camel", "gecko", "pigeon", "toad", "cat",
-    "goat", "pony", "turkey", "cobra", "goose", "pug", "turtle", "crow", "hawk", "rabbit", "viper",
-    "deer", "horse", "rat", "wasp", "dog", "jaguar", "raven", "whale", "dove", "koala", "seal",
-    "wolf", "duck", "lion", "shark", "worm", "eagle", "lizard", "sheep", "zebra",
+    "formica", "anguilla", "talpa", "bradipo", "scimmia", "emu", "scimmia", "lumaca", 
+    "pipistrello", "falco", "topo", "serpente", "orso", "pesce", "lontra", "ragno", 
+    "ape", "mosca", "pappagallo", "calamaro", "uccello", "volpe", "panda", "cigno", 
+    "bisonte", "rana", "maiale", "tigre", "cammello", "geco", "piccione", "rospo", 
+    "gatto", "capra", "pony", "tacchino", "cobra", "oca", "carlino", "tartaruga", 
+    "corvo", "falco", "coniglio", "vipera", "cervo", "cavallo", "ratto", "vespa", 
+    "cane", "giaguaro", "corvo", "balena", "colomba", "koala", "foca", "lupo", 
+    "anatra", "leone", "squalo", "verme", "aquila", "lucertola", "pecora", "zebra",
 ];
 
 pub fn to_animal_names(mut number: u64) -> String {
