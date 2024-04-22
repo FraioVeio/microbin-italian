@@ -1,10 +1,10 @@
 const ANIMAL_NAMES: &[&str] = &[
-    "formica", "anguilla", "talpa", "bradipo", "scimmia", "emu", "scimmia", "lumaca", 
+    "formica", "anguilla", "talpa", "bradipo", "scimmia", "emu", "babbuino", "lumaca", 
     "pipistrello", "falco", "topo", "serpente", "orso", "pesce", "lontra", "ragno", 
     "ape", "mosca", "pappagallo", "calamaro", "uccello", "volpe", "panda", "cigno", 
     "bisonte", "rana", "maiale", "tigre", "cammello", "geco", "piccione", "rospo", 
     "gatto", "capra", "pony", "tacchino", "cobra", "oca", "carlino", "tartaruga", 
-    "corvo", "falco", "coniglio", "vipera", "cervo", "cavallo", "ratto", "vespa", 
+    "gufo", "papera", "coniglio", "vipera", "cervo", "cavallo", "ratto", "vespa", 
     "cane", "giaguaro", "corvo", "balena", "colomba", "koala", "foca", "lupo", 
     "anatra", "leone", "squalo", "verme", "aquila", "lucertola", "pecora", "zebra",
 ];
